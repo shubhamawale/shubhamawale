@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamawale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamawale" /> </p>
 
-- 🔭 I’m currently working on **Devincept Contribution Program**
+- 🔭 I’m currently working as **Data Science Trainee** at **Almabetter**
 
 - 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamawale](https://github.com/shubhamawale)
 
-- 💬 Ask me about **Python and Machine learning**
+- 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **awales777@gmail.com**
+- 📫 How to reach me **er.shubhamawale@gmail.com**
 
 - 📄 Know about my experiences [https://shubhamawale.github.io](https://shubhamawale.github.io)
 
