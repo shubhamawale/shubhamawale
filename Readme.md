@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Nagnath Awale</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamawale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamawale" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamawale](https://github.com/shubhamawale)
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamawale?tab=repositories](https://github.com/shubhamawale?tab=repositories)
 
 - 💬 Ask me about **Data Analysis**
 
