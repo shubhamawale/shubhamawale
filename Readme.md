@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Nagnath Awale</h1>
+<h1 align="center">Hi 👋, I'm Shubham Awale</h1>
 <h3 align="center">Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamawale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamawale" /> </p>
