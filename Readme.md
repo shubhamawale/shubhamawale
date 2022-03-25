@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamawale?tab=repositories](https://github.com/shubhamawale?tab=repositories)
+- 👨‍💻 My data analysis projects are available at [kaggle](https://www.kaggle.com/ashubhamawale)
 
-- 💬 Ask me about **Data Analysis**
+- 👨‍💻 All of my projects are available at [github](https://github.com/shubhamawale?tab=repositories)
+
+- 📄 Know about my experiences [portfolio](https://shubhamawale.github.io)
 
 - 📫 How to reach me **er.shubhamawale@gmail.com**
 
-- 📄 Know about my experiences [https://shubhamawale.github.io](https://shubhamawale.github.io)
+- 💬 Ask me about **Data Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
