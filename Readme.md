@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamawale&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamawale" /> </p>
 
-- 🔭 I’m currently working as **Data Science Trainee** at **Almabetter**
+- 🔭 I’m currently working as **Data Science Consultant** at **Healthark Insights**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently working on mainly in  **Tableau, SQL, and Python**
 
 - 👨‍💻 My data analysis projects are available at [kaggle](https://www.kaggle.com/ashubhamawale)
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/shubhamawale?tab=repositories)
 
-- 📄 Know about my experiences [portfolio](https://shubhamawale.github.io)
+- 📄 Know about my experiences [portfolio](https://shubhamawale.in)
 
 - 📫 How to reach me **er.shubhamawale@gmail.com**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis, BI, and Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
